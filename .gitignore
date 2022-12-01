@@ -1,15 +1,15 @@
 # All Maven output goes here, compiled classes, generated code, etc.
 # Ignore only folders named target in root dir and direct child dirs.
-/target/
-*/target/
+#/target/
+#*/target/
 
 # Eclipse generated files.
-.settings
-.classpath
-.project
+#.settings
+#.classpath
+#.project
 # IntelliJ generated files.
-*.iml
-.idea
+#*.iml
+#.idea
 
 # Autogenerared OS X clutter.
 .DS_Store
