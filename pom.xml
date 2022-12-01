@@ -27,7 +27,7 @@
   </properties>
 
   <dependencies>
-    <!-- Testing dependencies.
+    <!-- Testing dependencies. -->
     <dependency>
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter-api</artifactId>
@@ -55,7 +55,7 @@
       <groupId>org.mockito</groupId>
       <artifactId>mockito-junit-jupiter</artifactId>
       <version>${mockito.version}</version>
-    </dependency> -->
+    </dependency>
   </dependencies>
 
   <build>
