@@ -25,9 +25,9 @@
     <mockito.version>2.21.0</mockito.version>
     <jacoco.plugin.version>0.8.1</jacoco.plugin.version>
   </properties>
-<!-- 
+
   <dependencies>
-    <!-- Testing dependencies. -->
+    <!-- Testing dependencies.
     <dependency>
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter-api</artifactId>
@@ -55,8 +55,8 @@
       <groupId>org.mockito</groupId>
       <artifactId>mockito-junit-jupiter</artifactId>
       <version>${mockito.version}</version>
-    </dependency>
-  </dependencies> -->
+    </dependency> -->
+  </dependencies>
 
   <build>
     <plugins>
